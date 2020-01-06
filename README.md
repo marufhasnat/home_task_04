@@ -1,2 +1,2 @@
-# home_task_04
+# home_task_06
 My first two landing web-page made by HTML &amp; CSS.... 
